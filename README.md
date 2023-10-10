@@ -1,4 +1,4 @@
-<h1">Hi 👋, I'm Beatriz Perea!</h1>
+<h1>Hi 👋, I'm Beatriz Perea!</h1>
 <h3>A passionate frontend developer from Spain</h3>
 
 - 🔭 I’m currently working on **improving my programming skills**
