@@ -18,6 +18,12 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bea-bp)](https://github.com/bea-bp/github-readme-stats)
 
+<div  align="center">
+<a href="https://github.com/bea-bp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bea-bp&theme=rose_pine&hide_langs_below=1&layout=donut" />
+</a>
+
+
 
 
 
